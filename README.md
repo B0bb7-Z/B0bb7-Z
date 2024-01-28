@@ -1,6 +1,6 @@
 # Hello World 🐋
 
-![B0bb7-Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0bb7-Z&show_icons=true&theme=dark)
+![C3t-0-Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=C3t-0&show_icons=true&theme=dark)
 
 ### I'm a  self-learning  Cyber security  and Computer science student.
 
