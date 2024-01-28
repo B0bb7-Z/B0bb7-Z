@@ -1,4 +1,4 @@
-### Hello World 🏴‍☠️
+### Hello World 🐱‍💻
 
 <!--
 **B0bb7-Z/B0bb7-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
